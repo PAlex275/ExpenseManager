@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "907459669587",
-    "project_id": "poetic-centaur-302119",
-    "storage_bucket": "poetic-centaur-302119.appspot.com"
+    "project_number": "32168543904",
+    "project_id": "expenseapp-362ee",
+    "storage_bucket": "expenseapp-362ee.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:907459669587:android:ec1e6483e5834ec896e0a6",
+        "mobilesdk_app_id": "1:32168543904:android:69d2ed3d72e8efa81d6bc5",
         "android_client_info": {
           "package_name": "com.example.expenseapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "907459669587-gbvkgkjmfnh08h0gbco4esu4ba431ubi.apps.googleusercontent.com",
+          "client_id": "32168543904-k2rmpb4h0mt70i83ttm86ro02bii8u5u.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.expenseapp",
-            "certificate_hash": "57925c85ff86ba8878649152851336f715410143"
+            "certificate_hash": "bdd1170d07d91f1aa6135a42eb4deed5d9f9ff2e"
           }
         },
         {
-          "client_id": "907459669587-p7dj5c48oc0vhlisqjnca3afpd4bs4rk.apps.googleusercontent.com",
+          "client_id": "32168543904-blrsgsbms5ac3e1ratmh4581bk6h8ntr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBg7EfgdGFXqMAWCYWTCHb0B_lKXXFUtpQ"
+          "current_key": "AIzaSyCgnQm3F0S7na-TaV8V9a5LrmyORBuGmeY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "907459669587-p7dj5c48oc0vhlisqjnca3afpd4bs4rk.apps.googleusercontent.com",
+              "client_id": "32168543904-blrsgsbms5ac3e1ratmh4581bk6h8ntr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

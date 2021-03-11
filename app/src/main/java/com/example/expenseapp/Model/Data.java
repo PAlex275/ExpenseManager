@@ -1,6 +1,6 @@
 package com.example.expenseapp.Model;
 
-class Data {
+public class Data{
 
     private int amount;
     private String type;
